@@ -1,6 +1,8 @@
 # QualCoder Debian packages
 Debian packages for QualCoder.
 
+Usethe latest package. Earlier packages have reduced functionality and some errors.
+
 These are made using the instructions at: https://help.ubuntu.com/community/PythonRecipes/DebianPackage
 
 And the commands:
