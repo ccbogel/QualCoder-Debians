@@ -53,4 +53,4 @@ qualcoder
 
 
 ## Other approaches
-I have tried using approaches suggested by others including using rules, MANIFEST.in setup.py but these have not worked in creating a successful deb package.
+I have tried using approaches suggested by others including using rules, MANIFEST.in setup.py but these have not worked in creating a deb package that also installs an application launcher.
