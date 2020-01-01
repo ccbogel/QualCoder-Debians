@@ -1,7 +1,7 @@
 # QualCoder Debian packages
 Debian packages for QualCoder.
 
-Use the latest package (qualcoder-1.6.deb). 
+Use the latest package (qualcoder-1.7.deb). 
 
 Earlier packages have reduced functionality and some errors.
 
