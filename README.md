@@ -1,6 +1,14 @@
 # QualCoder Debian packages
 Debian packages for QualCoder.
 
+Before installing the Debian please install these python packages:
+
+sudo apt install python3-pyqt5 python3-lxml qpdf python3-ebooklib  python3-ply python3-pip
+
+sudo python3 -m pip install pdfminer.six
+
+===
+
 Use the latest package (qualcoder-1.7.deb). 
 
 Earlier packages have reduced functionality and some errors.
