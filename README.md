@@ -9,7 +9,7 @@ sudo python3 -m pip install pdfminer.six
 
 =====================================================
 
-Use the latest package (qualcoder-1.7.deb). 
+Use the latest package (qualcoder-1.9.deb). 
 
 Earlier packages have reduced functionality and some errors.
 
@@ -17,9 +17,9 @@ These are made using the instructions at: https://help.ubuntu.com/community/Pyth
 
 And the commands:
 
-fakeroot dpkg --build qualcoder-1.7/ qualcoder-1.7.deb
+fakeroot dpkg --build qualcoder-1.9/ qualcoder-1.9.deb
 
-lintian qualcoder-1.5.deb
+lintian qualcoder-1.9.deb
 
 ## Folder structure:
 
@@ -57,7 +57,7 @@ qualcoder
 
 ----------copyright
 
-----------readme
+----------README.md
 
 ------pixmaps
 
