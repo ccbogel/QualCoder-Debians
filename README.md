@@ -1,6 +1,5 @@
 # QualCoder Debian packages
 
-Now JULY 2020 - soon due for another release as a few changes have occured.
 
 Debian packages for QualCoder.
 
@@ -12,9 +11,9 @@ sudo python3 -m pip install pdfminer.six openpyxl
 
 =====================================================
 
-Use the latest package (qualcoder-1.9.deb). 
+Use the latest package (qualcoder-2.0.deb). 
 
-Earlier packages have reduced functionality and some errors.
+Latest package fixes some bugs. Improves the graphical user interface. Adds Japanese language option in the interface. Improved import of special characters (e.g. smart quotes). Imports from Excel xlsx format. Improved visualisation of overlapping codes in text. Improved key short cuts for transcriptions: ctrl P or ctrl S for start/stop play/pause  ctrl R to rewind 5 seconds, alt R rewind 30 seconds, alt F forward 30 secondsctrl D delete speaker names,ctrl N add speaker name ctrl T insert timestamp
 
 These are made using the instructions at: https://help.ubuntu.com/community/PythonRecipes/DebianPackage
 
