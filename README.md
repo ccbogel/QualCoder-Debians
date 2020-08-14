@@ -19,9 +19,9 @@ These are made using the instructions at: https://help.ubuntu.com/community/Pyth
 
 And the commands:
 
-fakeroot dpkg --build qualcoder-1.9/ qualcoder-1.9.deb
+fakeroot dpkg --build qualcoder-2.0/ qualcoder-2.0.deb
 
-lintian qualcoder-1.9.deb
+lintian qualcoder-2.0.deb
 
 ## Folder structure:
 
