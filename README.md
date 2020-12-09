@@ -9,6 +9,8 @@ sudo apt install python3-pyqt5 python3-lxml qpdf python3-ebooklib  python3-ply p
 
 sudo python3 -m pip install pdfminer.six openpyxl
 
+THESE ARE OLDER DEBIANS PLEASE USE THE DEBIANS IN THE RELEASES OF QUALCODER
+
 =====================================================
 
 Use the latest package (qualcoder-2.0.deb). 
