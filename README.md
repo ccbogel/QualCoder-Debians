@@ -13,7 +13,7 @@ THESE ARE OLDER DEBIANS PLEASE USE THE DEBIANS IN THE RELEASES OF QUALCODER
 
 =====================================================
 
-Use the latest package (qualcoder-2.0.deb). 
+Use the latest package (qualcoder-2.4.deb). 
 
 Latest package fixes some bugs. Improves the graphical user interface. Adds Japanese language option in the interface. Improved import of special characters (e.g. smart quotes). Imports from Excel xlsx format. Improved visualisation of overlapping codes in text. Improved key short cuts for transcriptions: ctrl P or ctrl S for start/stop play/pause  ctrl R to rewind 5 seconds, alt R rewind 30 seconds, alt F forward 30 secondsctrl D delete speaker names,ctrl N add speaker name ctrl T insert timestamp
 
