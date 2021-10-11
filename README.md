@@ -9,7 +9,8 @@ sudo apt install python3-pyqt5 python3-lxml qpdf python3-ebooklib  python3-ply p
 
 sudo python3 -m pip install pdfminer.six openpyxl
 
-THESE ARE OLDER DEBIANS PLEASE USE THE DEBIANS IN THE RELEASES OF QUALCODER
+THESE ARE OLDER DEBIANS PLEASE USE THE CURRENT CODE IN QUALCODER (NO DEBIANS).
+I AM KEEPING THIS README ACTIVE AS I FOUND IT WAS A PROCESS THAT WORKED TO CREATE DEBIANS
 
 =====================================================
 
